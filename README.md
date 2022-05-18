@@ -7,13 +7,13 @@ My main projects are:
   - Made with node js
   - personal project
 - COVID Chaos
-  -made with bootstrap and js
-  -first term school project
-  -made in a group of 3
+  - made with bootstrap and js
+  - first term school project
+  - made in a group of 3
 - Virus invasion
-  -Made in Processing
-  -grade 12 capstone project
+  - Made in Processing
+  - grade 12 capstone project
 - BuddyUp
-  -Made with bootstrap and node js
-  -second term school project
-  -made in a group of 4
+  - Made with bootstrap and node js
+  - second term school project
+  - made in a group of 4
