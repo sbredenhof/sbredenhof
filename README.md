@@ -9,7 +9,8 @@ More recent projects:
   - This project was created over one month, full time
   - It was made in a group of 4
 
-Here are a few of the projects that I made earlier in my coding career.
+
+Here are a few of the projects that I made earlier in my coding career:
 
 [Frank, the Discord bot](https://github.com/sbredenhof/frank-discord-bot)
   - Made with node js
